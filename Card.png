@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Seu Gift Card</title>
+</head>
+<body>
+  <h1>Obrigado pelo pagamento!</h1>
+  <p>Aqui está seu código de Gift Card:</p>
+  <h2>ABCD-EFGH-IJKL</h2> <!-- Troque aqui pelo seu código real -->
+</body>
+</html>
