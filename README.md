@@ -14,3 +14,28 @@
   <strong>b8ff1dea-563f-4414-ba32-ddd7da5750c7</strong>
 </body>
 </html>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f8f8f8;
+  }
+  h1 {
+    color: #333;
+  }
+  p {
+    font-size: 18px;
+  }
+  img {
+    margin: 20px 0;
+  }
+  .pix-key {
+    font-weight: bold;
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+</style>
